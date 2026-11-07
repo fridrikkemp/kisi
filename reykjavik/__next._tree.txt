@@ -1,8 +1,8 @@
-:HL["/kisi/_next/static/chunks/3conoqjaa1f6f.css","style"]
+:HL["/kisi/_next/static/chunks/0r9awst8ywe7d.css","style"]
 :HL["/kisi/assets/fonts/archivo-var-latin.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kisi/assets/img/logo.png","image"]
 :HL["/kisi/assets/img/reykjavik-1600.webp","image",{"fetchPriority":"high","imageSrcSet":"/kisi/assets/img/reykjavik-480.webp 480w, /kisi/assets/img/reykjavik-960.webp 960w, /kisi/assets/img/reykjavik-1600.webp 1600w, /kisi/assets/img/reykjavik-1920.webp 1920w","imageSizes":"(max-width: 760px) 300vw, 100vw"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"reykjavik","s":["category","contact","services"]},"h":64,"c":"$Q3"}]]
 1:[["children",{"s":"(site)","c":"$Q2"}]]
-0:{"b":"NNHKk2WNSjDm2Z-9YrAus","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"0DgGsxv5s8NlMawJ1NdoR","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
